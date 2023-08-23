@@ -1,0 +1,6 @@
+[submodule "DC31-obsidian-sec-eng"]
+	path = DC31-obsidian-sec-eng
+	url = https://github.com/blueteamvillage/DC31-obsidian-sec-eng
+[submodule "btv-sec-eng-teleport-cluster"]
+	path = btv-sec-eng-teleport-cluster
+	url = https://github.com/blueteamvillage/btv-sec-eng-teleport-cluster
